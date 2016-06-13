@@ -1,3 +1,5 @@
 <?php
 
-
+function example_module_test() {
+  return "Hello world";
+}
